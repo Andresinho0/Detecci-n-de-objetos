@@ -2,9 +2,9 @@
 Programa que por medio de fotos detecta la cantidad de objetos
 
 Librerías utilizadas:
-  cv2
-  matplotlib
-  numpy
+     cv2
+     matplotlib
+     numpy
 
 Este programa está dirigido a los almacenes que cuentan con cantidades grandes de cajas u objetos de formas similares.
 
